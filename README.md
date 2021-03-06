@@ -1,1 +1,0 @@
-# Python-Stock-Trading-Strategy
